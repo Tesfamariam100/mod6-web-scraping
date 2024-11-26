@@ -1,5 +1,8 @@
 # 620-mod6-web-scraping
 
+Name: Tesfamariam
+Nov 26, 2024
+
 See [BeautifulSoup Quickstart Guide](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#quick-start)
 
 Choose a BeautifulSoup parser:
